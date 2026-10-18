@@ -1,0 +1,28 @@
+# .NET Core / Visual Studio / Rider
+/[Bb]in/
+/[Oo]bj/
+.vs/
+.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Avalonia / Application output
+publish/
+logs/
+*.db
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
